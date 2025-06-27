@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react_web_shop_practice/static/css/main.2dcb92b4.css",
+    "main.js": "/react_web_shop_practice/static/js/main.927430ac.js",
+    "static/media/big_bed.jpg": "/react_web_shop_practice/static/media/big_bed.5d003bec381a44ebf341.jpg",
+    "index.html": "/react_web_shop_practice/index.html",
+    "main.2dcb92b4.css.map": "/react_web_shop_practice/static/css/main.2dcb92b4.css.map",
+    "main.927430ac.js.map": "/react_web_shop_practice/static/js/main.927430ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dcb92b4.css",
+    "static/js/main.927430ac.js"
+  ]
+}

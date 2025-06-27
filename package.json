@@ -2,7 +2,7 @@
   "name": "react_web_shop_practice",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Vladimir-Drozdov/react_web_shop_practice",
+  "homepage": "https://vladimir-drozdov.github.io/react_web_shop_practice",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
